@@ -53,7 +53,7 @@
         echo "</li>";
     }
     echo "</ul>";
- 
+   /* ajout d'un commentaire pour tester les commits et merge provenant de 2 branches différentes*/
  ?>
  
   </div>
