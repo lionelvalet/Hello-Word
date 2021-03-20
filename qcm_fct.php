@@ -5,7 +5,7 @@
   <head>
     <meta charset="UTF-8">
     <title>ECO3</title>
-    <meta content="le projet ECO3">   
+    <meta content="Le projet ECO3">   
     <link rel="stylesheet" href="gestion_batiment.css" />
   </head>
   
