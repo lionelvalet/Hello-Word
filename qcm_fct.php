@@ -44,7 +44,7 @@
  
     
 	$c=connexion_bd( "tp-epua:3308", "lival", "8rxas75m", "lival");
-    $liste = array("C213", "C214", "C215", "C209");
+    $liste = array("C213", "C214", "C215", "C209", "C210");
  	
  	echo "<ul>";
 	foreach( $liste as $salle){
