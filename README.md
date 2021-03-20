@@ -7,3 +7,5 @@ La suite des modifications encore et encore
 Une autre modif dans la branche 1
 
 Une modif dans la branche 2
+
+Une troisième modification réalisée depuis VScode
