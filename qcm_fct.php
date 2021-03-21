@@ -56,7 +56,7 @@
    /* ajout d'un commentaire pour tester les commits et merge provenant de 2 branches différentes*/
     echo "test\n";
 	/*une modif réalisée directement sur GIT HUB*/
- 
+   /* une autrse réalisée par lival*/
  ?>
  
   </div>
